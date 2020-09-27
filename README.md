@@ -1,1 +1,3 @@
-# javatest
+# maven-project
+
+Simple Maven Project
